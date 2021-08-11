@@ -1,0 +1,1 @@
+from:(jobs-listings@linkedin.com) is:unread subject:(abc) !older_than:10d,forward.to.me@email.com
